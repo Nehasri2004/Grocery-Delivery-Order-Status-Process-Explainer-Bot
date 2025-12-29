@@ -1,0 +1,8 @@
+{
+  "name": "QuickGrocery Support Bot",
+  "description": "An intelligent AI assistant for the QuickGrocery platform that explains delivery processes, order stages, and substitution policies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
